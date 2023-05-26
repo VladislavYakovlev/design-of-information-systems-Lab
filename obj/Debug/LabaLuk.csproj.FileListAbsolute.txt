@@ -1,0 +1,15 @@
+F:\Institute\Лабораторные\Lukanov\LabaLuk\bin\Debug\LabaLuk.exe.config
+F:\Institute\Лабораторные\Lukanov\LabaLuk\bin\Debug\LabaLuk.exe
+F:\Institute\Лабораторные\Lukanov\LabaLuk\bin\Debug\LabaLuk.pdb
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.csproj.AssemblyReference.cache
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.csproj.SuggestedBindingRedirects.cache
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.Main.resources
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.Match.resources
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.Properties.Resources.resources
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.csproj.GenerateResource.cache
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.csproj.CoreCompileInputs.cache
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.exe
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.pdb
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.Team.resources
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.AddMatch.resources
+F:\Institute\Лабораторные\Lukanov\LabaLuk\obj\Debug\LabaLuk.AddTeam.resources
